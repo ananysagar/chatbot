@@ -11,7 +11,9 @@ body {
   color: #fff;
   text-align: center;
 }
-
+.main-container {
+    display: flex;
+}
 .container {
   width: 600px;
   margin: 50px auto;
@@ -103,7 +105,7 @@ body {
 }
 
 .button {
-  position: absolute;
+  position: relative;
   width: 80px;
   border: none;
   padding: 1px;
