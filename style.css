@@ -50,6 +50,9 @@ body {
   justify-content: flex-end;
 }
 
+.robot-cartoon {
+    margin-top: 50px;
+}
 .bot {
   justify-content: flex-start;
 }
@@ -105,7 +108,7 @@ body {
 }
 
 .button {
-  position: relative;
+  position: absolute;
   width: 80px;
   border: none;
   padding: 1px;
